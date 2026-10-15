@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**zhir04/zhir04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I'm a cybersecurity student currently learning about ethical hacking, network security, Linux, and security analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building my knowledge through university coursework, hands-on labs, and personal projects.
+
+## 🛠️ Tools I'm Learning
+- Linux & Kali Linux
+- Wireshark
+- YARA
+- Nmap
+- OWASP ZAP
+- VMware
+
+## 📚 What I'm Learning
+- Ethical Hacking
+- Network Security
+- Threat Detection
+- Linux Administration
+- Cybersecurity Fundamentals
+
+## 🎯 My Goal
+My goal is to continue developing my cybersecurity skills, gain practical experience, and build a portfolio that shows my progress as I learn.
+
+## 📂 My Projects
+I will be adding cybersecurity labs and projects as I complete them.
